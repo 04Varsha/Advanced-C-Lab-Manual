@@ -39,7 +39,7 @@ printf("Age:%d\nName:%svaccine:%d\neligibility:yes",e.age,e.n,e.age);
 ## Output:
 ![437942938-f0f0bf4e-4dde-4304-9b9f-581b933479dd](https://github.com/user-attachments/assets/8e16bbc4-211e-416e-aa81-ae27ba164f94)
 
-##Result:
+## Result:
 Thus, the program is verified successfully. 
 
 
@@ -75,7 +75,8 @@ int add(struct numbers n)
 return n.a+n.b;
 }
 ~~~
-Output:
+## Output:
+
 ![437943018-c9bbef68-f5d6-4ea5-abdf-738c3613fb66](https://github.com/user-attachments/assets/2cbc3b38-e644-48a0-8784-2a5a3e3547c8)
 
 ## Result:
@@ -117,6 +118,7 @@ Use scanf to input the file name into the name array.
 }
 ~~~
 ## Output:
+
 ![437943057-03b78301-cd7e-4c98-a32a-331efe240285](https://github.com/user-attachments/assets/216e5461-96f5-411b-947f-bdd9c3dc70df)
 
 ## Result:
@@ -163,7 +165,7 @@ int main()
 
 }
 ~~~
-Output:
+## Output:
 ![437943116-9761eb6a-a91a-4fd4-b09e-d26607c4f9a6](https://github.com/user-attachments/assets/0b363545-9214-4b27-8177-8766c0c9f958)
 
 ## Result:
